@@ -1,4 +1,4 @@
-# Domain Search App
+# DOMAIN SEARCH APP
 
 The Domain Search App is a convenient tool that allows you to search for information about domains.<br>
 It utilizes a Domain Checker API from RapidAPI to retrieve comprehensive domain-related data.<br>
