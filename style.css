@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+}
+
+body {
+    background-color: #000;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: fit-content;
+    width: fit-content;
+    padding: 10px 20px 50px 20px;
+}
+
+.titleSection {
+    height: fit-content;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+}
+
+.titleSection h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#0bccea, #0033ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.titleSection p {
+    color: #c9d5ee;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.inputSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.inputSection input {
+    width: 80%;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    color: #000;
+}
+
+.inputSection button {
+    width: 18%;
+    cursor: pointer;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background-color: #5371ef;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.4s ease;
+}
+
+.inputSection button:hover {
+    background-color: #2341b9;
+}
+
+.availableDomain p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    height: fit-content;
+    background-color: #fff;
+}
+
+table, th, td, tr {
+    border: 2px solid #000;
+}
+  
+th, td {
+    text-align: left;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    padding-left: 12px;
+    color: #000;
+}
+
+th, td {
+    padding-right: 200px;
+}
+
+th {
+    font-weight: bold;
+}
+
+th {
+    color: #a8c3f8;
+}
