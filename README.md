@@ -13,7 +13,6 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 - Retrieve domain-related data such as registration information, creation date, expiration date, and WHOIS records.
 
 Domain Search API: https://rapidapi.com/MASNathan/api/domain-checker7/
-> ![domain-search-screen](https://github.com/AnouarElKihal/domain-search/assets/68613907/76df5102-964e-43c9-8d6e-39cf591b0692)
-
+> ![domain-search-screen](https://github.com/AnouarElKihal/domain-search/assets/68613907/80e8f538-03cf-4b7e-86b8-8905260be366)
 
 You can find it online at this url: https://anouarelkihal.github.io/domain-search/
