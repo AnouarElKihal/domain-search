@@ -4,7 +4,7 @@ The Domain Search App is a convenient tool that allows you to search for informa
 It utilizes a Domain Checker API from RapidAPI to retrieve comprehensive domain-related data.<br>
 This app provides insights into domain availability, ownership, and other pertinent details.<br>
 The user interface of this Email Validator App has been designed to resemble the UI of a similar project showcased in one of RapidAPI's blogs. 
-I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app
+I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app.
 
 ## Features
 
