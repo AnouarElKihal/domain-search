@@ -5,7 +5,7 @@ It utilizes a Domain Checker API from RapidAPI to retrieve comprehensive domain-
 This app provides insights into domain availability, ownership, and other pertinent details.<br>
 The user interface of this Email Validator App has been designed to resemble the UI of a similar project showcased in one of RapidAPI's blogs. 
 I was inspired by their design and wanted to replicate a visually appealing and user-friendly interface for this app.<br>
-Domain Search API: https://rapidapi.com/MASNathan/api/domain-checker7/
+**Domain Search API:** https://rapidapi.com/MASNathan/api/domain-checker7/
 
 ## Features
 - Search for information about any domain.
