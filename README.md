@@ -14,5 +14,6 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 
 ## Live Application
 You can find it online at this url: https://anouarelkihal.github.io/domain-search/
-> ![domain-search-screen](https://github.com/AnouarElKihal/domain-search/assets/68613907/63d65d61-f427-42cf-8180-49ce7336bff6)
+> ![domain-search-screen](https://github.com/AnouarElKihal/domain-search/assets/68613907/634ce7fc-5316-4afe-99bf-5174716e8a3c)
+
 
