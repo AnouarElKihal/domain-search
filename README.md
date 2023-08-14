@@ -10,6 +10,16 @@ I was inspired by their design and wanted to replicate a visually appealing and 
 1. Create a RAPID API Account
 2. Subscribe to Test:
 > ![screen-domain](https://github.com/AnouarElKihal/domain-search/assets/68613907/312960c1-77d4-4f8c-8cb9-e224556f7a8f)
+3. Replace YOUR_DOMAIN_CHECKER_API_KEY in the javascript file:
+```javascript
+const options = {
+  method: 'GET',
+  headers: {
+    'X-RapidAPI-Key': 'YOUR_DOMAIN_CHECKER_API_KEY',
+    'X-RapidAPI-Host': 'spotify-scraper.p.rapidapi.com'
+  }
+}
+```
 
 ## Features
 - Search for information about any domain.
