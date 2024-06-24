@@ -20,7 +20,7 @@ const fetchData = (userInput) => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'YOUR_DOMAIN_CHECKER_API_KEY',
+            'X-RapidAPI-Key': '5b7b08abedmshf33c6c1feb5e1cbp1bb1ecjsn55274baa97da', // Replace with 'YOUR_DOMAIN_CHECKER_API_KEY'
             'X-RapidAPI-Host': 'domain-checker7.p.rapidapi.com'
         }
     }
